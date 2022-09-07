@@ -4,6 +4,9 @@ module.exports = {
     extend: {
       screens: {
         "sm":"480px"
+      },
+      spacing: {
+        "big":"48rem"
       }
     },
     fontFamily: {
