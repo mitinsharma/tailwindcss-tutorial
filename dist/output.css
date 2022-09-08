@@ -668,6 +668,10 @@ video {
   margin-top: 1.25rem;
 }
 
+.mt-40 {
+  margin-top: 10rem;
+}
+
 .flex {
   display: flex;
 }
@@ -774,6 +778,10 @@ video {
 
 .w-10 {
   width: 2.5rem;
+}
+
+.w-4 {
+  width: 1rem;
 }
 
 .cursor-pointer {
@@ -893,6 +901,11 @@ video {
   background-color: rgb(147 197 253 / var(--tw-bg-opacity));
 }
 
+.bg-gray-800 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+}
+
 .bg-gradient-to-t {
   background-image: linear-gradient(to top, var(--tw-gradient-stops));
 }
@@ -954,6 +967,15 @@ video {
 
 .py-40 {
   padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+.py-20 {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+.pb-40 {
   padding-bottom: 10rem;
 }
 
